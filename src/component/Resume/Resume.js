@@ -60,7 +60,7 @@ const Resume = () => {
             <div className="card-body">
               <h5>Edubrige Java FullStack (Training)</h5>
               <p>Jul 2022 - Dec 2022</p>
-              <p> Work with java techenologys like Junit, Gradle, JDBC, Maven, Hibernate, Spring Boot & Microservices. <br/>
+              <p> Work with java techenologys like Junit, Gradle, Maven, Hibernate, JDBC, Spring Boot & Microservices. <br/>
                   also done some project using this techenology .</p>
             </div>
           </div>
@@ -69,7 +69,7 @@ const Resume = () => {
               <h5>Skills</h5>
               <h6>Front End</h6>
               <p>HTML , CSS , Bootstrap , Javascript , Jquery , React JS , AJAX  & JSON  <br/>
-                Java, Junit, Gradle, JDBC, Maven, Hibernate, Spring Boot, Microservices etc.</p>
+                Java, Junit, Gradle, Maven, Hibernate, JDBC, Spring Boot, Microservices etc.</p>
               <h6>Back End</h6>
               <p>NODE JS & MYSQL etc.</p>
             </div>

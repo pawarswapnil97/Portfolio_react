@@ -18,7 +18,9 @@ const Home = () => {
               </span>
             </h2>
 
-            <p className="text-white">Innovative Front-End Developer and maintaining responsive websites. <br/>Proficient in HTML, CSS, Bootstrap, Java, JavaScript, jQuery, React, Node Js <br/> and MySql plus modern libraries and frameworks. Passionate about usability.</p>
+            <p className="text-white">Innovative Front-End Developer and maintaining responsive websites. <br/>
+                                      Proficient in HTML, CSS, Bootstrap, JavaScript, jQuery, React, Java, Spring Boot, Microservices <br/>
+                                      Node Js and MySql plus modern libraries and frameworks. Passionate about usability.</p>
             <h4 className="text-white">FIND  ME</h4>
                 <div className='button mt-5'>
                   <button className='btn-sh mr-4 mb-5 bg-primary'>

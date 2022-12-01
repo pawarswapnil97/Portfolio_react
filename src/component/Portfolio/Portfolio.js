@@ -20,6 +20,20 @@ const Portfolio = () => {
          </div>
         </div>
 
+
+        <div className="col-md-3 mt-3">
+        <div className="card">
+          <div className="card-body p-3">
+            <img src="https://bootstrapmade.com/demo/templates/Flattern/assets/img/slide/slide-2.jpg" className="w-100 pimg"/>
+            <h5 className="text-dark mt-3">Flattern Website</h5>
+            <p>Technology Used : HTML, CSS, Bootstrap</p>
+            <a href="https://pawarswapnil97.github.io/FLATTERN/">
+            <button className="btn btn-outline-primary btn-sm">View Project</button>
+            </a>
+          </div>
+         </div>
+        </div>
+
       <div className="col-md-3 mt-3">
         <div className="card">
           <div className="card-body p-3">
@@ -43,20 +57,7 @@ const Portfolio = () => {
          </div>
         </div>
 
-        <div className="col-md-3 mt-3">
-        <div className="card">
-          <div className="card-body p-3">
-            <img src="https://bootstrapmade.com/demo/templates/Flattern/assets/img/slide/slide-2.jpg" className="w-100 pimg"/>
-            <h5 className="text-dark mt-3">Flattern Website</h5>
-            <p>Technology Used : HTML, CSS, Bootstrap</p>
-            <a href="https://pawarswapnil97.github.io/FLATTERN/">
-            <button className="btn btn-outline-primary btn-sm">View Project</button>
-            </a>
-          </div>
-         </div>
-        </div>
-
-      
+        
 
 
       <div className="col-md-3 mt-3">
@@ -78,7 +79,7 @@ const Portfolio = () => {
             <h5 className="text-dark mt-3">Stock Manegment System</h5>
             <p>Technology Used : Java & MySQL<br/>
                Manage stock for small organization.</p>
-            <a href="https://pawarswapnil97.github.io/FLATTERN/">
+            <a href="">
             <button className="btn btn-outline-primary btn-sm">View Project</button>
             </a>
           </div>
