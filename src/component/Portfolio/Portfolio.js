@@ -91,7 +91,7 @@ const Portfolio = () => {
             <img src="https://t4.ftcdn.net/jpg/05/08/09/59/360_F_508095918_EfLZJilo2BaKaceKcYJQEpuRBVO0TMlt.jpg" className="w-100 pimg"/>
             <h5 className="text-dark mt-3">Weather App</h5>
             <p>Technology Used : React JS and Bootstrap</p>
-            <a href="https://pkwebtech.github.io/weather/"><button className="btn btn-outline-primary btn-sm">View Project</button></a>
+            <a href="https://pawarswapnil97.github.io/react-weather-app/"><button className="btn btn-outline-primary btn-sm">View Project</button></a>
           </div>
          </div>
         </div>
@@ -102,7 +102,7 @@ const Portfolio = () => {
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOrFIwQvfJAc4kSu29V6Zs2xvb8BWZ37o5eD8MKIShUwO2d2Qif4VfI7kQ1iWdrr2JuY&usqp=CAU" className="w-100 pimg"/>
             <h5 className="text-dark mt-3">Live Crypto Price Tracker</h5>
             <p>Technology Used : React JS and Bootstrap</p>
-            <a href="https://pkwebtech.github.io/Crypto/">
+            <a href="https://pawarswapnil97.github.io/Crypto/">
             <button className="btn btn-outline-primary btn-sm">View Project</button>
             </a>
           </div>
