@@ -48,10 +48,10 @@ const Resume = () => {
           <h4 className="text-warning text-center">Exprience</h4>
           <div className="card workexp mt-4">
             <div className="card-body">
-              <h5>Front-End Developer (Internship)</h5>
+              <h5>Front-End Developer (Intern)</h5>
               <p>A2Z IT HUB PVT LTD <br/>
                  Jan 2022 - Aug 2022</p>
-              <p> Worked with front end techenologys like HTML, CSS, Bootstrap, Javascript, React js<br/>
+              <p> During intern work with front end techenologys like HTML, CSS, Bootstrap, Javascript, React js<br/>
                   using this techenology design static and responsive website.<br/></p>
               
             </div>
@@ -60,7 +60,7 @@ const Resume = () => {
             <div className="card-body">
               <h5>Edubrige Java FullStack (Training)</h5>
               <p>Jul 2022 - Dec 2022</p>
-              <p> Work with java techenologys like Junit, Gradle, Maven, Hibernate, MySQL, JDBC, Spring Boot & Microservices. <br/>
+              <p> During training work with java techenologys like Junit, Gradle, Maven, Hibernate, MySQL, JDBC, Spring Boot & Microservices. <br/>
                   also done some project using this techenology .</p>
             </div>
           </div>
