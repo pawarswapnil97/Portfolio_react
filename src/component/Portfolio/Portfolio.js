@@ -110,7 +110,55 @@ const Portfolio = () => {
          </div>
         </div>
 
-        {/* <div className="col-md-3 mt-3">
+{/* Angular project */}
+
+        <div className="col-md-3 mt-3">
+        <div className="card">
+          <div className="card-body p-3">
+            <img src="https://pearl.stylemixthemes.com/seo-agency/wp-content/uploads/sites/38/2019/01/slide1.png" className="w-100 pimg"/>
+            <h5 className="text-dark mt-3">Email Sender Application</h5>
+            <p>Technology Used : Angular JS, Springboot & MySQL.<br/>
+               To send mail or multiple person.
+            </p>
+            <a href="https://pawarswapnil97.github.io/Crypto/">
+            <button className="btn btn-outline-primary btn-sm">View Project</button>
+            </a>
+          </div>
+         </div>
+        </div>
+
+        <div className="col-md-3 mt-3">
+        <div className="card">
+          <div className="card-body p-3">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOrFIwQvfJAc4kSu29V6Zs2xvb8BWZ37o5eD8MKIShUwO2d2Qif4VfI7kQ1iWdrr2JuY&usqp=CAU" className="w-100 pimg"/>
+            <h5 className="text-dark mt-3">Student Manegment System</h5>
+            <p>Technology Used : Angular JS, Springboot & MySQL.<br/>
+               To add student info & show in list.
+            </p>
+            <a href="https://pawarswapnil97.github.io/Crypto/">
+            <button className="btn btn-outline-primary btn-sm">View Project</button>
+            </a>
+          </div>
+         </div>
+        </div>
+
+        <div className="col-md-3 mt-3">
+        <div className="card">
+          <div className="card-body p-3">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOrFIwQvfJAc4kSu29V6Zs2xvb8BWZ37o5eD8MKIShUwO2d2Qif4VfI7kQ1iWdrr2JuY&usqp=CAU" className="w-100 pimg"/>
+            <h5 className="text-dark mt-3">Smart Contact Maneger</h5>
+            <p>Technology Used : Thymelef, Springboot & MySQL.<br/>
+               To send mail or multiple person
+            </p>
+            <a href="https://pawarswapnil97.github.io/Crypto/">
+            <button className="btn btn-outline-primary btn-sm">View Project</button>
+            </a>
+          </div>
+         </div>
+        </div>
+
+
+        <div className="col-md-3 mt-3">
          <div className="card">
           <div className="card-body p-3">
             <img src="https://5.imimg.com/data5/VD/OI/MY-48795277/e-commerce-application-development-service-500x500.jpg" className="w-100 pimg"/>
@@ -119,7 +167,7 @@ const Portfolio = () => {
             <button className="btn btn-outline-primary btn-sm">View Project</button>
           </div>
          </div>
-        </div> */}
+        </div>
 
         
 
