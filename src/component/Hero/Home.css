@@ -1,6 +1,5 @@
 .hero {
   position: relative;
-  
 }
 .hero h3 {
   font-weight: 100;
@@ -29,14 +28,13 @@
   margin-top: 30px;
 }
 .hero_btn {
-  margin-top:-2%;
+  margin-top: -2%;
   margin-bottom: 30px;
- 
 }
 .hero_btn h4 {
   font-weight: 500;
   letter-spacing: 2px;
-  color:white;
+  color: white;
   font-size: 15px;
   margin: 30px 0 30px 0;
 }
@@ -66,7 +64,7 @@
   width: 510px;
   margin-top: 20%;
 }
-.btn-sh{
+.btn-sh {
   padding: 8px 14px;
   border-radius: 50%;
 }
@@ -76,8 +74,16 @@
   right: 10%;
   width: 510px;
 }
-.insta_icon{
-  background-color: rgba(236, 29, 171, 0.925);
+.insta_icon {
+  /* background-color: rgba(236, 29, 171, 0.925); */
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
 }
 @media (max-width: 768px) {
   .hero .right,

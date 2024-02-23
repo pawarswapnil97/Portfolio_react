@@ -9,7 +9,7 @@ const Home = () => {
         <div className="container f_flex top">
           <div className="top text-center w-100">
             <h1 className="text-white">
-              Hi, I’m <span>Pawar Swapnil</span>
+              Hi, I’m <span>Swapnil Pawar</span>
             </h1>
             <h2>
               a
@@ -18,6 +18,7 @@ const Home = () => {
                   words={[
                     " Backend Developer.",
                     " Full Stack Developer.",
+                    " React Developer.",
                     " Angular Developer.",
                   ]}
                   loop
@@ -51,7 +52,7 @@ const Home = () => {
                   <i class="fa fa-github text-white"></i>
                 </a>
               </button>
-              <button className="btn-sh mr-4 bg-success">
+              {/* <button className="btn-sh mr-4 bg-success">
                 <a
                   href="https://wa.me/919766273575/?text=Hii, Whatsup !"
                   target="_blank"
@@ -59,7 +60,7 @@ const Home = () => {
                 >
                   <i class="fa fa-whatsapp text-white"></i>{" "}
                 </a>
-              </button>
+              </button> */}
               <button className="btn-sh mr-4 mb-5 insta_icon ">
                 <a href="https://www.instagram.com/swapnil_010_">
                   {" "}

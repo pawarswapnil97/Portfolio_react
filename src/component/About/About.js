@@ -26,14 +26,14 @@ const About = () => {
                     <h6>pawarswapnil0579@gmail.com</h6>
                   </td>
                 </tr>
-                <tr>
+                {/* <tr>
                   <td>
                     <i className="fa fa-phone mr-3"></i>
                   </td>
                   <td>
                     <h6> 9766273575</h6>
                   </td>
-                </tr>
+                </tr> */}
                 <tr>
                   <td>
                     <i className="fa fa-calendar mr-3"></i>{" "}

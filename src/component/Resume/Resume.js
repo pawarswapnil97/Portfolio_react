@@ -51,17 +51,18 @@ const Resume = () => {
               </div>
             </div> */}
 
-            <div className="card workexp mt-4">
+            <div className="card workexp mt-3">
               <div className="card-body">
-                <h5>Edubrige Java FullStack (Training)</h5>
-                <p>Jul 2022 - Dec 2022</p>
+                <h5>Skills</h5>
+                <h6>Front End</h6>
                 <p>
-                  {" "}
-                  During training work with java techenologys like Junit,
-                  Gradle, Maven, Hibernate, MySQL, JDBC, Spring Boot , Angular
-                  Js , Rest API & Microservices. <br />
-                  also done some project using this techenology .
+                  HTML , CSS , Bootstrap , Javascript , Jquery , React , Angular
+                  , AJAX & JSON <br />
+                  Java, Junit, Gradle, Maven, Hibernate, JDBC, Spring Boot,
+                  Microservices etc.
                 </p>
+                <h6>Back End</h6>
+                <p>Spring Boot, Nosql & MYSQL etc.</p>
               </div>
             </div>
           </div>
@@ -69,11 +70,11 @@ const Resume = () => {
           <div className="col-md-6 mt-5">
             <h4 className="text-warning text-center">Exprience</h4>
 
-            <div className="card workexp mt-4">
+            <div className="card workexp mt-3">
               <div className="card-body">
                 <h5>Backend Developer</h5>
                 <p>
-                  Gormac techenologys <br />
+                  Gormac Technologies <br />
                   Jul 2023 - Present
                 </p>
                 <p>
@@ -94,7 +95,7 @@ const Resume = () => {
               <div className="card-body">
                 <h5>Frontend Developer (Intern)</h5>
                 <p>
-                  A2Z IT HUB PVT LTD <br />
+                  A2Z INFOTECH <br />
                   Jan 2022 - Aug 2022
                 </p>
                 <p>
@@ -110,16 +111,18 @@ const Resume = () => {
 
             <div className="card workexp mt-4">
               <div className="card-body">
-                <h5>Skills</h5>
-                <h6>Front End</h6>
+                <h5>Edubrige Java FullStack (Training)</h5>
                 <p>
-                  HTML , CSS , Bootstrap , Javascript , Jquery , Angular Js ,
-                  AJAX & JSON <br />
-                  Java, Junit, Gradle, Maven, Hibernate, JDBC, Spring Boot,
-                  Microservices etc.
+                  Edubrige India <br />
+                  Jul 2022 - Jan 2023
                 </p>
-                <h6>Back End</h6>
-                <p>Spring Boot, Nosql & MYSQL etc.</p>
+                <p>
+                  {" "}
+                  During training work with java techenologys like Junit,
+                  Gradle, Maven, Hibernate, MySQL, JDBC, Spring Boot , Angular ,
+                  Rest API & Microservices. <br />
+                  also done some project using this techenology .
+                </p>
               </div>
             </div>
           </div>
