@@ -18,7 +18,7 @@ const Home = () => {
                   words={[
                     " Backend Developer.",
                     " Full Stack Developer.",
-                    " React Developer.",
+                    // " React Developer.",
                     " Angular Developer.",
                   ]}
                   loop
@@ -32,11 +32,9 @@ const Home = () => {
             </h2>
 
             <p className="text-white">
-              Innovative Front-End Developer and maintaining responsive
-              websites. <br />
-              Proficient in HTML, CSS, Bootstrap, JavaScript, Angular, Rest API,
-              Java, Spring Boot, Microservices <br />
-              Node Js, AWS and Nosql plus modern libraries and frameworks.
+              Innovative Full Stack Developer with over 2+ year experience <br />
+              Proficient in Java, Spring Boot, Microservices, Angular <br />
+              Node Js, and Nosql plus modern libraries and frameworks.
               Passionate about usability.
             </p>
             <h4 className="text-white">FIND ME</h4>

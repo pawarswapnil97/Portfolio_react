@@ -5,9 +5,9 @@ const Contact = () => {
   return (
     <>
       <div className="container " id="contact">
-        <div className="row w-100 justify-content-center">
+        <div className="row w-100 p-2 mt-5 justify-content-center">
           <div className="col-md-12">
-            <h4 className="text-white text-center">Contact Me</h4>
+            <h3 className="text-white text-center">Contact Me</h3>
           </div>
           <div className="col-md-7">
             <form

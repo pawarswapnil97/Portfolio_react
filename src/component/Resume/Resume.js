@@ -17,7 +17,7 @@ const Resume = () => {
                 <p>Savitribai Phule Pune University</p>
                 <p>Jaikranti College Katraj, Pune</p>
                 <p> * Oct 2022 - Mar 2024</p>
-                <p>SGPA - 8.5</p>
+                <p>73.10 %</p>
               </div>
             </div>
 
@@ -72,7 +72,7 @@ const Resume = () => {
 
             <div className="card workexp mt-3">
               <div className="card-body">
-                <h5>Backend Developer</h5>
+                <h5>Software Developer</h5>
                 <p>
                   Gormac Technologies <br />
                   Jul 2023 - Present
@@ -93,7 +93,7 @@ const Resume = () => {
 
             <div className="card workexp mt-4">
               <div className="card-body">
-                <h5>Frontend Developer (Intern)</h5>
+                <h5>Full Stack Developer (Intern)</h5>
                 <p>
                   A2Z INFOTECH <br />
                   Jan 2022 - Aug 2022
