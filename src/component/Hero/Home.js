@@ -52,7 +52,7 @@ const Home = () => {
               </button>
               {/* <button className="btn-sh mr-4 bg-success">
                 <a
-                  href="https://wa.me/919766273575/?text=Hii, Whatsup !"
+                  href="https://wa.me/9182893982/?text=Hii, Whatsup !"
                   target="_blank"
                   class="google-plus"
                 >
